@@ -1,0 +1,17 @@
+body {
+  background-color:#444;
+}
+
+#preso {
+  .slide {
+    background-color: #fff;
+  }
+  .content {
+    color: #333;
+    &.subsection {
+      h1 {
+        background-color: #8a9ea7;
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Chuck Norris filmography",
+  "description": "Awesome action movies",
+  "author": "a fan",
+  "templates": {
+    "special": "special.tpl"
+  },
+  "sections": [
+    { "section": "title" },
+    { "section": "content" },
+    { "section": "credits" }
+  ]
+}
