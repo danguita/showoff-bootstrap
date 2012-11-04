@@ -77,4 +77,8 @@ Some sample sections and slides are included:
 * Content
 * Credits
 
-There're also defined on `showoff.json` config file.
+There're also defined in `showoff.json` config file.
+
+## License?
+
+Feel free to use and contribute.
